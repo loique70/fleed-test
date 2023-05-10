@@ -20,7 +20,7 @@ source:
 # Each path is relative to your site's source folder.
 paths:
   data: ''
-  collections: ''
+  collections: 'loique'
   layouts: null
   static: ''
   uploads: uploads
